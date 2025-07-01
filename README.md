@@ -1,4 +1,4 @@
-# Hey there, I'm Michael!
+# Hey there, I'm Michael! 😄
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmcniel&theme=github_dark&show_icons=true)
 
@@ -29,3 +29,6 @@
 | <img width=250 height=250 alt="WheatFree" src="https://github.com/mcmcniel/mcmcniel/blob/main/wheatfree.gif" />  | <h4>WheatFree - CRUD Application</h4> <p>WheatFree is a gluten-free, mealkit delivery service similar to other mealkit delivery services such as HelloFresh and EveryPlate. This project includes full CRUD functionality. Some include creating new customer orders in a SQLite database, viewing inventory items and their quantities, editing existing recipes for customers to order, and removing items that are no longer being delivered.</p> |
 | <img width=250 height=250 alt="Rocky Space" src="https://github.com/mcmcniel/mcmcniel/blob/main/rockyspace.gif" />  | <h4>Rocky Space - MonoGame Application</h4> <p>Rocky Space is an asteroids-like game built in MonoGame, a framework for C#. This game was built from scratch without assistance from a typical game engine such as Unity or Unreal Engine. The physics and environment window was created from scratch as well and not handled by premade assets.</p> |
 | <img width=250 height=250 alt="ActiveWear" src="https://github.com/mcmcniel/mcmcniel/blob/main/activewear.gif" />  | <h4>ActiveWear Shirt Designer - Website with JavaScript Functionality</h4> <p>The ActiveWear Shirt Designer is a shirt designer page meant to be placed in a pre-existing website as a new feature. The designer has different logos to choose from as well as a color picker to customize your shirt further. It also handles user orders and gathers required information from the customer.</p> |
+
+## Contact
+Email: mcmcniel@mymail.tstc.edu

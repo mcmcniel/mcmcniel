@@ -24,3 +24,12 @@
 
 ## Projects
 
+<div>
+  <div align="left">
+    
+  </div>
+  <div align="right">
+    <h4>WheatFree</h4>
+    <p>WheatFree is a gluten-free, mealkit delivery service similar to other mealkit delivery services such as HelloFresh and EveryPlate. This project includes full CRUD functionality. Some include creating new customer orders in a SQLite database, viewing inventory items and their quantities, editing existing recipes for customers to order, and removing items that are no longer being delivered.</p>
+  </div>
+</div>

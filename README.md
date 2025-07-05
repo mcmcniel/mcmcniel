@@ -2,6 +2,8 @@
 
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcmcniel&theme=github_dark&show_icons=true)
 
+View my website <a href="https://mcmcniel.github.io/">here!</a>
+
 ## Skills/Frameworks/Preferred Technologies
 
 <img align="left" alt="dotnet" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
